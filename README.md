@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## How_i_study: repeat("commit", "everyday")
+### How_i_study: repeat("commit", "everyday")
 
 <!--
 **doongeon/doongeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
