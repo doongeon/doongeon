@@ -2,6 +2,8 @@
 
 content: "web"
 
+skills = ["JS", "React", "Next.js", "Python", "Java"]
+
 How-to-study: repeat("commit", "everyday")
 
 <!--
