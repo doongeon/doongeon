@@ -2,9 +2,7 @@
 
 content: "web"
 
-skills = ["JS", "React", "Next.js", "Python", "Java"]
-
-How-to-study: repeat("commit", "everyday")
+how-to-study: repeat("commit", "everyday")
 
 <!--
 **doongeon/doongeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
