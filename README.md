@@ -4,6 +4,9 @@ content: "web"
 
 how-to-study: repeat("commit", "everyday")
 
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doongeon&layout=compact&theme=nord&hide_border=true" />
+
+
 <!--
 **doongeon/doongeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
