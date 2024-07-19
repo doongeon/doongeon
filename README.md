@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🌱 Junior Software Engineer
-- 👨‍🎓 Graduated Department of statistics in Kyungpook National Univ.
+- 👨‍🎓 Graduated from the Department of Statistics, Kyungpook National University
+- 🤔 Actively looking for a job in software development
 
 #### Activities
 
@@ -22,6 +23,9 @@
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory)](https://doongeon-stack.tistory.com/)
 
 </div>
+
+#### Contact
+- 📧 Email: ndmb2012@gmail.com
 
 <div>
   <img height=160 src="https://github-readme-stats.vercel.app/api?username=doongeon&rank_icon=github"/>
