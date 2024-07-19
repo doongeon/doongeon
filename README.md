@@ -28,7 +28,7 @@
 - 📧 Email: ndmb2012@gmail.com
 
 <div>
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=doongeon&rank_icon=github"/>
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=doongeon&hide_progress=true"/>
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=doongeon&rank_icon=github&theme=transparent#gh-dark-mode-only"/>
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=doongeon&hide_progress=true&theme=default#gh-light-mode-only"/>
 </div>
 
