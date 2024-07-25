@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Junior Software Engineer
+- 💻 Mainly do WEB in React
 - 👨‍🎓 Graduated from the Department of Statistics, Kyungpook National University
 - 📚 Currently studying systematic code structure by reading ['Refactoring'](https://martinfowler.com/books/refactoring.html)
 - 🤔 Actively looking for a job in software development
