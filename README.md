@@ -1,15 +1,8 @@
 ### Hi there 👋
 
-- 🌱 Junior Software Engineer
 - 💻 Mainly do WEB in React
-- 👨‍🎓 Graduated from the Department of Statistics, Kyungpook National University
-- 🤔 Actively looking for a job in software development
 
-#### Activities
-
-...
-
-#### Interested in
+#### Work in
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
