@@ -16,6 +16,3 @@
   <img height=160 src="https://github-readme-stats.vercel.app/api?username=doongeon&theme=transparent&hide_border=true"/>
   <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=doongeon&hide_progress=true&theme=transparent&hide_border=true"/>
 </div>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ndmb2012)](https://solved.ac/ndmb2012/)
-
