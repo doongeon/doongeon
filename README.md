@@ -1,18 +1,33 @@
-### Hi there 👋
+# Hello, World!
 
-#### Blog
-<div>
-  
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory)](https://doongeon-stack.tistory.com/)
+I am **Donggeon Na**.  
+I am a **Software Engineer** with a strong background in data analysis and machine learning systems.
 
-</div>
+My interests lie in building **secure, scalable systems** and applying **machine learning and data-driven approaches** to real-world services.
 
-#### Contact
-- 📧 Email: ndmb2012@gmail.com
+## Interests
 
-<hr>
+- Full-Stack Web Development (Frontend & Backend)
+- Machine Learning & Neural Networks
+- Data Engineering & Analysis
+- AI-powered Services
 
-<div>
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=doongeon&theme=transparent&hide_border=true"/>
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=doongeon&hide_progress=true&theme=transparent&hide_border=true"/>
-</div>
+## Education
+
+**Kyungpook National University, South Korea (KNU)**  
+- **B.S. in Statistics**
+- **B.S. in Computer Science**
+
+## Experience
+
+- **AI Agent Engineer Intern**, Deep Auto, Currnet
+
+## Awards
+
+- **KB IT’s Your Life Hackathon**, KB Kookmin Bank – Top 2, october 2025  
+- **KNU Data Analysis Competition**, Kyungpook National University – Top 5 , November 2023
+- **Outstanding Paper Award**, Korea Institute of Information Technology, June 2023
+
+## Contact
+
+- Email: ndmb2012@gmail.com
