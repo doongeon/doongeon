@@ -23,7 +23,8 @@ My interests lie in building **secure, scalable systems** and applying **machine
 
 ## Experience
 
-- **AI Agent Engineer Intern**, DeepAuto.ai - Seoul, South Korea
+- **MCP Engineer Intern**, DeepAuto.ai - Seoul, South Korea
+- **AI Engineer**, DeepAuto.ai - Seoul, South Korea
 
 ## Awards
 
